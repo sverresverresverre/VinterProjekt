@@ -1,0 +1,28 @@
+Storleken av fönstret där spelet visas
+
+Infogning av texturer för olika objekt
+
+Startvärden för spelarkaraktären, fienden och poängen
+
+Lista med olika y-värden där fienden ska vara på
+
+Random generator så endast ett värde i listan väljs
+
+Metod för hur fienden ska se ut och hur snabbt den ska åka mot vänster sida
+
+Metod för hur spelarkaraktären ska reagera på input från spelaren
+
+Metod för hur kanterna av fönstret ska fungera
+
+While loop där spelet utförs {
+
+    Sektion start där första startskärmen visas
+
+    Sektion game där huvuddelen av spelet händer
+
+    Sektion fail som visas om man förlorar spelet
+
+    Sektion win som visas när man har 50 poäng i spelet
+    
+}
+
